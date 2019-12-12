@@ -2,8 +2,8 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-      "done": true
+      "title": "hello",
+      "done": true,
       "todo": "hay que hacer algo bien"
     }
   ],
